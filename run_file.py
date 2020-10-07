@@ -1,4 +1,4 @@
-import assignment3 as models
+import classifiers as models
 import numpy as np
 import sys
 
